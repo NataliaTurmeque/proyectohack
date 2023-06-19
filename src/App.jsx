@@ -34,7 +34,7 @@ salud en Colombia tome decisiones pro en la calidad de vida de los colombianos.
   <div id="Datos">
   <h1 className='title11'>Datos</h1>
   <div className='container'>
-  <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTFiYzJmODQtZTRlMS00ZGZjLWI5N2YtNjQ5NmM1YTI5MGRkIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+  <iframe title="SIvilag" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzQyZWFkZDQtMmZlZS00ZWI2LWIwZjUtZGJmNWFiYTU0YzEyIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
   </div>
   </div>
 
